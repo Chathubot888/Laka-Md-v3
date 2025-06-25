@@ -41,7 +41,7 @@ You will need a session ID to run the LAKA=MD. Click the button below to obtain 
 > **Get Pair Code (Session ID)**
 
 <a href='https://lakaweb-6d1063b2401b.herokuapp.com/pair' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
+  <img alt='𝐋ᴀᴋᴀ-𝐌ᴅ=8pAgiT7L#sv4uNik5KDLj7eiMZiENNmpqaZ7bOw8N2TmMOFNlCCE' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
